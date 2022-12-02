@@ -13,6 +13,10 @@ get
 update
 search
 result
+connect
+leave
+join
+disconnect
 results
 searches
 cookies
