@@ -698,6 +698,12 @@ die
 dies
 cake
 jello
+suggestion
+suggestions
+fart
+farted
+farts
+farteds
 desert
 cakes
 jellos
