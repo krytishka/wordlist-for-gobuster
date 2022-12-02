@@ -162,3 +162,15 @@ mit
 mitedu
 log
 logs
+catalog
+catalogues
+catalogs
+rep
+cript
+crypt
+encrypt
+encryption
+cryption
+catalog
+catalogs
+catalogues
