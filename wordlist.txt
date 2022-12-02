@@ -19,6 +19,11 @@ idiots
 how
 why
 x
+dll
+dlls
+app
+application
+applicatons
 y
 xy
 z
@@ -636,6 +641,14 @@ conditions
 eye
 eyeonyou
 brackets
+filesystem
+filesystem
+damn
+daymn
+temp
+appdata
+trash
+trashes
 bracket
 staple
 staples
