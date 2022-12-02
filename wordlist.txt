@@ -722,3 +722,8 @@ redacts
 red
 edit
 edits
+clipboard
+cp
+clipboards
+cps
+cnps
