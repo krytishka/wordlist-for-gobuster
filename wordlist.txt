@@ -727,3 +727,12 @@ cp
 clipboards
 cps
 cnps
+point
+nopoint
+points
+gift
+gifts
+card
+cards
+giftcard
+giftcards
