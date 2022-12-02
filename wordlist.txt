@@ -493,3 +493,8 @@ succesfull
 unsuccesfull
 paste
 copy
+copypaste
+this
+thing
+these
+things
