@@ -341,3 +341,5 @@ session
 sessions
 nmap
 eternalblue
+txt
+txts
