@@ -13,6 +13,8 @@ key
 website
 site
 tinder
+machine
+machines
 youtube
 api
 learn
@@ -310,3 +312,11 @@ reimagianed
 imagianed
 tmp
 tmps
+report
+reports
+default
+defaults
+defaultuser
+defaultsuser
+defaultusers
+defaultsusers
