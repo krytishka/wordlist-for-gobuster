@@ -143,3 +143,15 @@ dog
 new
 old
 folder
+flag
+uip
+uiphost
+uhost
+udphost
+framework
+wordpress
+wpf
+ftp
+sudo
+su
+sudosu
