@@ -156,3 +156,5 @@ sudo
 su
 sudosu
 listing
+educational
+edu
