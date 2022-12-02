@@ -19,6 +19,12 @@ real
 fr
 f
 r
+scissors
+scissor
+light
+dark
+lightshot
+lightshots
 really
 stages
 idiot
