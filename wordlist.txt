@@ -14,11 +14,17 @@ website
 site
 tinder
 youtube
+api
+learn
 facebook
 whatsapp
 instagramm
 insta
 web
+vote
+votes
+result
+results
 file
 zip
 rar
