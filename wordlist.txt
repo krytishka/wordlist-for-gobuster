@@ -283,6 +283,10 @@ search
 bin
 folder
 exploit
+setting
+settings
+option
+options
 exploits
 trojan
 malware
@@ -596,6 +600,9 @@ remote
 remotes
 rdp
 rdps
+opinion
+opinions
+what
 condition
 conditions
 brackets
