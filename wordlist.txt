@@ -16,6 +16,7 @@ stage
 stages
 idiot
 fork
+hahaha
 forks
 frog
 frogs
@@ -680,6 +681,7 @@ happen
 happens
 staple
 staples
+okay
 arabs
 arabians
 side
@@ -695,3 +697,5 @@ desert
 cakes
 jellos
 deserts
+smoothie
+smoothies
