@@ -414,3 +414,5 @@ prologue
 prologues
 logues
 logue
+terminal
+terminals
