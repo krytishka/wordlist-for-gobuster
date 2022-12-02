@@ -32,6 +32,9 @@ zip
 rar
 png
 inst
+name
+names
+named
 voices
 vocals
 instrumental
