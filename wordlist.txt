@@ -121,6 +121,7 @@ learn
 facebook
 vpn
 gui
+guis
 vpns
 repository
 repositories
