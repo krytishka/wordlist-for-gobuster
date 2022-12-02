@@ -303,6 +303,7 @@ finds
 act
 activity
 last
+sus
 lastlogs
 lastlog
 data
@@ -320,3 +321,6 @@ defaultuser
 defaultsuser
 defaultusers
 defaultsusers
+second
+minute
+our
