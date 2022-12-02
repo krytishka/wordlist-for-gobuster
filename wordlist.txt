@@ -303,6 +303,13 @@ mouse
 help
 run
 start
+starts
+star
+stars
+stair
+stairs
+door
+doors
 web
 browser
 online
@@ -675,6 +682,9 @@ staples
 arabs
 arabians
 side
+words
+blah
+bla
 sides
 die
 dies
