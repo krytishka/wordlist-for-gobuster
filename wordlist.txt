@@ -160,3 +160,5 @@ educational
 edu
 mit
 mitedu
+log
+logs
