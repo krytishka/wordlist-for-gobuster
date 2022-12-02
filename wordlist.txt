@@ -435,6 +435,11 @@ easteregg
 surprise
 poop
 fix
+fixes
+ver
+version
+vers
+versions
 fixing
 loop
 change
