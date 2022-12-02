@@ -80,6 +80,7 @@ category
 act
 anti
 scan
+scans
 antiscan
 virus
 virustotal
@@ -243,6 +244,7 @@ sudo
 su
 sudosu
 listing
+listings
 educational
 edu
 mit
@@ -399,3 +401,8 @@ cookies
 7z
 archive
 archives
+logi
+prologue
+prologues
+logues
+logue
