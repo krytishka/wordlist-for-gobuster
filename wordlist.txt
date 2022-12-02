@@ -158,6 +158,9 @@ use
 police
 pass
 password
+passwords
+base
+bases
 username
 login
 html
@@ -572,4 +575,8 @@ service
 rtx
 fork
 forks
+auto
+autos
+autopause
+html
 again
