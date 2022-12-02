@@ -194,9 +194,20 @@ plugin
 plug
 plugs
 pugins
+correct
+correction
+uncorrect
+uncorrection
+depression
+feel
+feelings
+feeling
 page
 creation
 crew
+up
+upload
+uploads
 crew
 crewmates
 impostor
@@ -206,3 +217,4 @@ easter
 egg
 easteregg
 surprise
+poop
