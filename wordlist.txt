@@ -36,6 +36,8 @@ server
 tcp
 udp
 ip
+log
+logs
 protocol
 orange
 blue
@@ -160,8 +162,6 @@ educational
 edu
 mit
 mitedu
-log
-logs
 catalog
 catalogues
 catalogs
@@ -171,6 +171,13 @@ crypt
 encrypt
 encryption
 cryption
-catalog
-catalogs
-catalogues
+asset
+assets
+pub
+release
+releases
+public
+pubs
+rel
+star
+stars
